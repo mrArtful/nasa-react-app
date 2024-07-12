@@ -1,8 +1,8 @@
 {
   "name": "nasa-react-app",
-  "private": false,
-  "homepage": "https://mrartful.github.io/nasa-react-app/",
-  "version": "0.0.0",
+  "private": true,
+  "homepage": "./",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
